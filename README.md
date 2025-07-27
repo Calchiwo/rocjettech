@@ -2,7 +2,7 @@
 
 **Simple ideas. Useful tools. Built from a phone.**
 
-Welcome to the GitHub home of Rocjet Technologies Ltd. It's a small software company I started at 15. I’m from Nigeria, and I build mobile-first tools using just my Android phone.
+Welcome to the GitHub home of **Rocjet Technologies Ltd**. It's a small **software company I started at 15**. I’m from Nigeria, and I build mobile-first tools using **just my Android phone**.
 
 Everything here is coded from scratch. No fancy setup. Just me learning, building, and shipping useful things.
 
@@ -10,7 +10,7 @@ Everything here is coded from scratch. No fancy setup. Just me learning, buildin
 
 ## 🧠 About Rocjet
 
-I’m Caleb Wodi, also known as Calchiwo.
+I’m **Caleb Wodi**, also known as **Calchiwo**.
 
 I started Rocjet to turn ideas into tools people can use.
 
@@ -22,7 +22,7 @@ This is where I build, test, and share what I’m learning as a young developer.
 
 ## 🧩 Projects – The Wodi-Styles
 
-Wodi-Styles is a growing collection of clean, simple tools for creators and developers.
+**Wodi-Styles** is a growing collection of clean, simple tools for creators and developers.
 
 Here are some of the projects I’ve built:
 
