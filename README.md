@@ -22,13 +22,13 @@ This is where I build, test, and share what I’m learning as a young developer.
 
 ## 🧩 Projects – The Wodi-Styles
 
-**Wodi-Styles** is a growing collection of clean, simple tools for creators and developers.
+**BuiltByWodi®** is a growing collection of clean, simple tools for creators and developers.
 
 Here are some of the projects I’ve built:
 
-- 🌍 **WodiWideWeb** – My personal site and digital story  
-- 🧮 **WodiC** – A small code editor for testing ideas  
-- ⏱️ **WodiWaitlist** – A simple waitlist tool for indie launches
+- 🌍 **WodiWideWeb** – My personal storytelling platform where I document my journey , reflections, lessons and projects
+- 🧮 **WodiC** – A voice calculator with AI and scientific tools   
+- ⏱️ **WodiWaitlist** – A wait-list platform for collecting emails sign-ups ahead of my future launches
 
 ### Coming soon:
 
