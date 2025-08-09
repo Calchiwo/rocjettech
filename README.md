@@ -26,10 +26,10 @@ This is where I build, test, and share what I’m learning as a young developer.
 
 Here are some of the projects I’ve built:
 
-- 🌍 **WodiWideWeb** – My personal storytelling platform where I document my journey , reflections, lessons and projects
-- 🧮 **WodiC** – A voice calculator with AI and scientific tools   
-- ⏱️ **WodiWaitlist** – A wait-list platform for collecting emails sign-ups ahead of my future launches
-- 🖼️ **WodiMemories** — A personal photo gallery showcasing life's moments, milestones, and memories.
+- 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons and projects
+- 🧮 [**WodiC**](https://wodic.netlify.app) – A voice calculator with AI and scientific tools   
+- ⏱️ [**WodiWaitlist**](https://WodiWaitlist.netlify.app) – A wait-list platform for collecting emails sign-ups ahead of my future launches
+- 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery showcasing life's moments, milestones, and memories.
 
 ### Coming soon:
 
