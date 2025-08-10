@@ -2,7 +2,7 @@
 
 **Simple ideas. Useful tools. Built from a phone.**
 
-Welcome to the GitHub home of **Rocjet Technologies Ltd**. It's a small **software company I started at 15**. I’m from Nigeria, and I build mobile-first tools using **just my Android phone**.
+Welcome to the GitHub home of **Rocjet Technologies Ltd**. It's a small **tech company I started at 15**. I’m from Nigeria, and I build mobile-first tools using **just my Android phone**.
 
 Everything here is coded from scratch. No fancy setup. Just me learning, building, and shipping useful things.
 
@@ -68,4 +68,4 @@ Right now, Rocjet is just me. A teenager in Nigeria building software that solve
 
 ### 🔍 Keywords
 
-Rocjet Technologies, software company, mobile-first tools, Nigeria, Calchiwo, teen developer, WodiWideWeb, developer tools, productivity apps, micro SaaS, solo founder, Android coding.
+Rocjet Technologies, tech company, mobile-first tools, Nigeria, Calchiwo, teen developer, WodiWideWeb, developer tools, productivity apps, micro SaaS, solo founder, Android coding.
