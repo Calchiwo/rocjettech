@@ -43,6 +43,7 @@ Every product, every line of code, is handcrafted by me — from scratch, withou
 * 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons, memories and projects
 * 🧮 [**WodiC**](https://wodic.netlify.app) – A voice calculator with AI and scientific tools
 *  ⏱️ [**WodiWaitlist**](https://wodiwaitlist.netlify.app) – A wait-list platform for collecting early interest and signups for my upcoming launches
+* 🔐 [**WodiWebify**](https://github.com/Calchiwo/WodiWebify)
 * 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery capturing life's moments, milestones, and memories.
 
 
