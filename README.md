@@ -30,7 +30,7 @@ I’m not here to build just “tools.” I’m building platforms — foundatio
 
 **Offline games**: Fun, accessible experiences that don’t need constant internet
 
-**AI solutions**: Exploring new ways to bring intelligence and automation to everyday problems
+**AI/ML solutions**: Exploring new ways to bring intelligence and automation to everyday problems
 
 
 Every product, every line of code, is handcrafted by me — from scratch, without shortcuts.
