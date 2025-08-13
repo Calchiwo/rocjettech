@@ -1,71 +1,95 @@
+---
+
 # 🚀 Rocjet Technologies Ltd
 
-**Simple ideas. Useful tools. Built from a phone.**
+**Technology-first. Mobile-built. Founder-led.**
 
-Welcome to the GitHub home of **Rocjet Technologies Ltd**. It's a small **tech company I started at 15**. I’m from Nigeria, and I build mobile-first tools using **just my Android phone**.
+Hi, I’m **Caleb Wodi (Calchiwo)**, a 15-years-old, Nigerian, and the Founder & CEO of **Rocjet Technologies Ltd.**
 
-Everything here is coded from scratch. No fancy setup. Just me learning, building, and shipping useful things.
+Rocjet isn’t just a software company or a SaaS startup. It’s a **technology-first company** where I build platforms, mobile apps, offline games, and AI solutions — all from my phone. This is my playground to explore, create, and launch platforms that solve real problems with simplicity and purpose.
 
----
-
-## 🧠 About Rocjet
-
-I’m **Caleb Wodi**, also known as **Calchiwo**.
-
-I started Rocjet to turn ideas into tools people can use.
-
-> "You don’t need perfect tools to start. Just the courage to begin."
-
-This is where I build, test, and share what I’m learning as a young developer.
 
 ---
 
-## 🧩 Projects – The Wodi-Styles
+## 🧠 What Rocjet Means to Me
 
-**BuiltByWodi®** is a growing collection of clean, simple tools for creators and developers.
+I started Rocjet because I believe technology should be accessible and powerful — even if you’re just starting out with what you have.
 
-Here are some of the projects I’ve built:
+I’m not here to build just “tools.” I’m building platforms — foundations where people can connect, create, and grow. It’s about impact, innovation, and pushing boundaries.
 
-- 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons and projects
-- 🧮 [**WodiC**](https://wodic.netlify.app) – A voice calculator with AI and scientific tools   
-- ⏱️ [**WodiWaitlist**](https://WodiWaitlist.netlify.app) – A wait-list platform for collecting emails sign-ups ahead of my future launches
-- 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery showcasing life's moments, milestones, and memories.
+> “At 15, with just my phone and my ideas, I’m proving that you don’t need fancy setups to make something meaningful.”
 
-### Coming soon:
 
-- 📊 Productivity tools  
-- 🎙️ Voice-first, mobile-only utilities  
-- 🧑‍💻 Developer tools for beginners  
-- ⚙️ Micro SaaS tools  
-- 📱 Everything built for mobile, with clarity in mind
+
 
 ---
 
-## 🎯 What Rocjet Stands For
+## 🌟 What We Build
 
-- Start with what you have  
-- Build with purpose  
-- Keep it simple  
-- Share what you learn
+**Mobile apps**: Lightweight, easy to use, and designed for how people actually live and work today
 
-Right now, Rocjet is just me. A teenager in Nigeria building software that solves small problems in simple ways.
+**Web platforms**: Places where stories, ideas, and communities come alive
 
----
+**Offline games**: Fun, accessible experiences that don’t need constant internet
 
-## 🔗 Connect
+**AI solutions**: Exploring new ways to bring intelligence and automation to everyday problems
 
-- **Founder:** [Calchiwo (Caleb Wodi)](https://github.com/calchiwo)  
-- **Twitter (X):** [@rocjettech](https://x.com/rocjettech)  
-- **Email:** rocjettech@gmail.com  
-- **Tools:** I build everything on my phone. No laptop.
+
+Every product, every line of code, is handcrafted by me — from scratch, without shortcuts.
+
 
 ---
 
-> I’m 15. I build software with my phone.  
-> Rocjet is where it all begins.
+## 🔥 Current Projects
+
+• 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons, memories and projects
+• 🧮 [**WodiC**](https://wodic.netlify.app) – A voice calculator with AI and scientific tools
+• ⏱️ [**WodiWaitlist**](https://WodiWaitlist.netlify.app) – A wait-list platform for collecting early interest and signups for my upcoming launches
+•  📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery capturing life's moments, milestones, and memories.
+
 
 ---
 
-### 🔍 Keywords
+## 🎯 Our Values
 
-Rocjet Technologies, tech company, mobile-first tools, Nigeria, Calchiwo, teen developer, WodiWideWeb, developer tools, productivity apps, micro SaaS, solo founder, Android coding.
+• Start with what you have
+
+• Build platforms, not just tools
+
+• Keep it simple, keep it real
+
+• Share honestly and openly
+
+
+
+---
+
+## 🤝 Connect with Me
+
+Founder & CEO: [Calchiwo (Caleb Wodi)](https://github.com/Calchiwo)
+
+Company Twitter (X): [@rocjettech](https://x.com/rocjettech)
+
+Email: feedback@rocjettech.com
+
+
+
+---
+
+> I’m 15. I build technology-first platforms from my phone.
+This is Rocjet Technologies Ltd — where my vision begins.
+
+
+
+
+---
+
+## Keywords
+
+Rocjet Technologies, technology-first company, mobile apps, web platforms, offline games, AI solutions, Nigerian founder, teen CEO, Calchiwo, WodiWideWeb, founder story
+
+
+---
+
+
+---
