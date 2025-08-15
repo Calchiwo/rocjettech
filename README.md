@@ -38,17 +38,6 @@ Every product, every line of code, is handcrafted by me — from scratch, withou
 
 ---
 
-## 🔥 Current Projects
-
-* 🌍 [**WodiWideWeb**](https://wodiwideweb.netlify.app) – My personal storytelling platform where I document my journey, reflections, lessons, memories and projects
-* 🧮 [**WodiC**](https://wodic.netlify.app) – A voice calculator with AI and scientific tools
-*  ⏱️ [**WodiWaitlist**](https://wodiwaitlist.netlify.app) – A wait-list platform for collecting early interest and signups for my upcoming launches
-* 🔐 [**WodiWebify**](https://github.com/Calchiwo/WodiWebify) — An encrypted note-taking platform.
-* 📸 [**WodiMemories**](https://wodimemories.netlify.app) — A personal photo gallery capturing life's moments, milestones, and memories.
-
-
----
-
 ## 🎯 Our Values
 
 • Start with what you have
@@ -85,7 +74,7 @@ This is Rocjet Technologies Ltd — where my vision begins.
 
 ## Keywords
 
-Rocjet Technologies, technology-first company, mobile apps, web platforms, offline games, AI solutions, Nigerian founder, teen CEO, Calchiwo, WodiWideWeb, founder story
+Rocjet Technologies, technology-first company, mobile apps, web platforms, offline games, AI solutions, Nigerian founder, teen CEO, Calchiwo, founder story
 
 
 ---
